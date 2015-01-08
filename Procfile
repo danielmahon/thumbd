@@ -1,1 +1,1 @@
-thumbd: node bin/thumbd server
+WEB: $WEB
