@@ -1,1 +1,1 @@
-web: $WEB
+thumbd: $WEB
